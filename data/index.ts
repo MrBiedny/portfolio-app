@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "I prioritize client collaboration, fostering open communication",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently still learning my tech stack",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,68 +72,62 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    title: "Simple Todo List",
+    des: "Just create task to do, do a task and delete it after all!",
+    img: "/todolistimg.png",
+    iconLists: ["/re.svg", "/ts.svg", "/css.svg"],
+    link: "https://github.com/MrBiedny/todolist",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    title: "Weather App",
+    des: "Choose your city and check the weather. Simply as that!",
+    img: "/weatherappimg.png",
+    iconLists: ["/re.svg", "/ts.svg", "/css.svg", "/axios.svg"],
+    link: "https://github.com/MrBiedny/weatherApp",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    title: "usePopcorn App",
+    des: "Check and rate your watched films!",
+    img: "/usepopcornappimg.png",
+    iconLists: ["/re.svg", "/ts.svg", "/css.svg"],
+    link: "https://github.com/MrBiedny/usePopcornApp",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    title: "WorldWise App",
+    des: "Have you been outisde your mother land and you want to share your opinion? Just mark city and add text!",
+    img: "/worldwiseappimg.png",
+    iconLists: ["/re.svg", "/ts.svg", "/css.svg", "/contextapi.svg"],
+    link: "https://github.com/MrBiedny/worldWiseApp",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rafał was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rafał's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rafał is the ideal partner.",
+    name: "Jakub Koszewski",
+    title: "Frontend Developer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rafał was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rafał's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rafał is the ideal partner.",
+    name: "Jakub Kryska",
+    title: "Backend Developer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rafał was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rafał's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rafał is the ideal partner.",
+    name: "Jakub Koszewski",
+    title: "Frontend Developer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rafał was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rafał's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rafał is the ideal partner.",
+    name: "Jakub Kryska",
+    title: "Backend Developer",
   },
 ];
 
@@ -173,45 +167,43 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
+    title: "Frontend Developer Intern",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    className: "md:col-span-2",
+    thumbnail: "/exp3.svg",
+  },
+  // {
+  //   id: 2,
+  //   title: "Mobile App Dev - JSM Tech",
+  //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp2.svg",
+  // },
+  {
+    id: 3,
+    title: "App Dev Project",
+    desc: "I created schedule page for my uncle. Not the best but It was my first time! https://www.wojciechbus.pl",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  {
-    id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+  // {
+  //   id: 4,
+  //   title: "Lead Frontend Developer",
+  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp4.svg",
+  // },
 ];
 
 export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    link: "https://github.com/MrBiedny",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/rafał-sołtysiak-07ab6216a",
   },
 ];
