@@ -12,11 +12,9 @@ function Approach() {
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Planning and Strategy"
+          title="Learning"
           icon={<AceternityIcon order="Phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          description="I am still learning React.js, JavaScript and more... I will not stop until I become a expert!"
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,11 +22,9 @@ function Approach() {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="I am motivated "
           icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          description="I am motivated person to be very good in React.js, Next.j, Tailwind and many more!"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -41,11 +37,9 @@ function Approach() {
           />
         </Card>
         <Card
-          title="Deploy & Launch"
+          title="Passion"
           icon={<AceternityIcon order="Phase 3" />}
-          description="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          description="I am tech enthusiast with a passion for coding. Beside that I love computer games, gym, motocycles (I had 3!) and science."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -97,11 +91,11 @@ const Card = ({
         <div className="text-center group-hover/canvas-card:-translate-y-4 absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] group-hover/canvas-card:opacity-0 transition duration-200 w-full  mx-auto flex items-center justify-center">
           {icon}
         </div>
-        <h2 className="dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center text-3xl">
+        <h2 className="dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4 font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center text-3xl">
           {title}
         </h2>
         <h2
-          className="text-sm dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center"
+          className="text-md dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4 font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center"
           style={{ color: "#E4ECFF" }}
         >
           {description}
